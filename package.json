@@ -1,0 +1,28 @@
+{
+  "name": "laravel-mix-file-hash-versioning",
+  "version": "1.0.0",
+  "description": "Webpack plugin to add support for filename version hashed assets in LaravelMix ^4",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrogasparcs/laravel-mix-file-hash-versioning.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "webpack",
+    "versioning",
+    "hash",
+    "manifest"
+  ],
+  "author": "pedrogasparcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrogasparcs/laravel-mix-file-hash-versioning/issues"
+  },
+  "homepage": "https://github.com/pedrogasparcs/laravel-mix-file-hash-versioning#readme",
+
+  "peerDependecies": {
+      "laravel-mix": "^4.0.15"
+  }
+}
